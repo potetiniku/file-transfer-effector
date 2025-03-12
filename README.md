@@ -1,0 +1,2 @@
+# file-transfer-effector
+Windowsでファイルの転送ダイアログが開いた際に任意の音声を再生するツール
